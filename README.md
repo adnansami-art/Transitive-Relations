@@ -444,10 +444,8 @@ Determining whether a relation is an equivalence relation.
 Creating a complete relation-property analyzer.
 
 ## 👨‍💻 Author
-Muhammad Adnan Sami
 
-ID: 2025-3-60-152
-
-EAST WEST UNIVERSITY
-
-Mail:adnansamitngl5050@gmail.com
+**Muhammad Adnan Sami**  
+**Student ID:** 2025-3-60-152  
+**Institution:** East West University  
+**Email:** adnansamitngl5050@gmail.com
